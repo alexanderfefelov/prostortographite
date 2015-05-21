@@ -1,0 +1,8 @@
+graphite:
+  host: localhost
+  port: 2003
+
+prostor:
+  login: t1234567890
+  password: 123456
+  metric: foobar.prostor.balance
